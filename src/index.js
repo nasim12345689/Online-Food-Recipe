@@ -92,7 +92,6 @@ function rtc_foodType(foodType) {
             <option value="chicken" class="select-option">Chicken</option>
             <option value="beef" class="select-option">beef</option>
             <option value="fishAndseafood" class="select-option">Fish and Seafood</option>
-            <option value="pork" class="select-option">Pork</option>
         </select>
         `;
 
